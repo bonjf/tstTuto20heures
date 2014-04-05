@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">competencesBTS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">"Bienvenue  dans l'application de gestion des competences BTS"</string>
+    <string name="competence1">dev andro</string>
+    <string name="competence2">git</string>
+    <string name="competence3">C#</string>
+    <string name="competence4">Cahier des charges</string>
+    <string name="competence5">javascript</string>
+    <string name="bouttonLancer">calcul</string>
+    <string name="resultat">resultat à calculer</string>
+
+</resources>
